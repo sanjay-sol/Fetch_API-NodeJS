@@ -1,0 +1,15 @@
+nodemon.json
+url in the index.js 7 line can be get by following steps:
+open cloud.mongodb.com =>atlas
+open database and press connect
+the choose connect your application than this above url will be shown
+
+
+parallelly,,
+
+open mongodb compass and paste which can be get by foolowing same steps as above but 
+after pressing connect button choose "connect using mongodb compass" 
+there you can find this url
+
+
+<password> should replaced with password of that user.
